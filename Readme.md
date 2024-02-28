@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Антипов Олегович](https://up.htmlacademy.ru/htmlcss-individual/1/user/2479503).
-* Наставник: `Неизвестно`.
+* Наставник: `[Наталья Зотова]`.(https://htmlacademy.ru/profile/id1079951)
 
 ---
 
